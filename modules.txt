@@ -1,0 +1,12 @@
+appdirs
+atomicwrites
+awscli-local
+backports.weakref
+boto3
+botocore
+brotlipy
+constantly
+cssselect
+cryptography
+pandas
+psycopg2-binary
